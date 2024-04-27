@@ -15,5 +15,5 @@ _Mi nombre es Maryori, soy una estudiante del quinto ciclo de la carrera de Desa
 
 Pregúntame [WathsApp](https://web.whatsapp.com/).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maryori30&show_icons=true&theme=radical)
+![Maryori Janampa](https://github-readme-stats.vercel.app/api?username=Maryori30&show_icons=true&theme=radical)
 

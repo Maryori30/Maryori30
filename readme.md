@@ -13,8 +13,7 @@ _Mi nombre es Maryori, soy una estudiante del quinto ciclo de la carrera de Desa
 * 📫 Comunícate conmigo: _maryorijanampalira@gmail.com_
 * 😄 Pronombre: Mayo
 
-
-
 Pregúntame [WathsApp](https://web.whatsapp.com/).
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 

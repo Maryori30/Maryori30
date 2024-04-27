@@ -17,5 +17,5 @@ Pregúntame [WathsApp](https://web.whatsapp.com/).
 
 ![Maryori Janampa](https://github-readme-stats.vercel.app/api?username=Maryori30&show_icons=true&theme=radical)
 
-**LENGUAGE**
+
 [![Maryori Janampa Lira](https://github-readme-stats.vercel.app/api/top-langs/?username=Maryori30&layout=compact)](https://github.com/Maryori30/github-readme-stats)

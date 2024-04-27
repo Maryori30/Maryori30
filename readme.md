@@ -1,5 +1,5 @@
 # MARYORI ROMINA JANAMPA LIRA 🙌
-<p style="border-radius:50%">
+<p style=" text-align:center; border-radius:50%">
 <img src="https://img.freepik.com/vector-premium/chica-linda-vector-libreta_405506-563.jpg" style="width:400px">
 </p>
 

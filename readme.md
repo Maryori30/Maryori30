@@ -1,6 +1,7 @@
 # MARYORI ROMINA JANAMPA LIRA 🙌
-
-<img src="https://img.freepik.com/vector-premium/chica-linda-vector-libreta_405506-563.jpg" style="width:400px; border-radius:50%">
+<p style="border-radius:50%">
+<img src="https://img.freepik.com/vector-premium/chica-linda-vector-libreta_405506-563.jpg" style="width:400px">
+</p>
 
 _Mi nombre es Maryori, soy una estudiante del quinto ciclo de la carrera de Desarrollo de Sistemas de Información, actualmente me encunetro estudiando en el IESTP Misioneros Monfortianos. Me interesa mucho aprender, y me esfuerzo por mejorar día a día llenando mis conocimientos con cada aprendizaje que nos brindan los docentes._
 
